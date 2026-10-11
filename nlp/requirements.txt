@@ -1,0 +1,9 @@
+# SentinelAI Cyberbullying & Toxicity Detector - Dependencies
+tensorflow>=2.16.0
+keras>=3.0.0
+fastapi>=0.110.0
+uvicorn[standard]>=0.28.0
+pydantic>=2.0.0
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
